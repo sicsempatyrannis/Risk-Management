@@ -3,6 +3,7 @@ Calculates risk metrics
 
 
 1.) Run the risk_assessment_class.py file as an executable within the folder. It will generate several risk metrics.
+
 	Scenario: Already lent £40,000,000 with £10,000,000 commited. These values can be altered inside the program.
 	
 	
